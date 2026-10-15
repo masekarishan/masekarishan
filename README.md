@@ -29,8 +29,8 @@
 ### 🎓 Certifications
 
 - Google AI Essentials — Coursera
-- Foundations: Data, Data, Everywhere — Google / Coursera
-- Google Data Analytics — In Progress
+- Maximize Productivity With AI Tools — Coursera
+- Google Data Analytics — Coursera
 
 ### 🤝 Connect With Me
 
